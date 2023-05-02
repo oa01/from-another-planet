@@ -9,8 +9,8 @@ Head to releases and download the latest version
 
 
 ### Source code 
-Download the repo and run the python file (you need the ``pygame`` module)
-
+Download the repository, then enter the repository and run `pip install -r requirements.txt`.
+Once that has finished, run `python game.py`
 
 ### Gameplay
 https://user-images.githubusercontent.com/91330011/228535251-b4f30736-a61b-4fd7-a4b1-b449d7712f76.mp4
